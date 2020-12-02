@@ -1,0 +1,32 @@
+.hulu {
+    font-family: sacramento;
+    color: lime;
+}
+
+.style {
+    font-family: dancing script;
+}
+
+.full {
+    font-family: architects daughter;
+    color: yellow;
+}
+
+.park {
+    color: red;
+    font-family: Fondamento;
+}
+
+.punk {
+    color: blue;
+    font-family: Mansalva;
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: grey;
+}
